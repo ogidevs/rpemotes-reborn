@@ -64,6 +64,9 @@ Config = {
     PointingInCar = false,
     ReplayEmoteAfterPointing = true,
 
+    -- Emote Positioning
+    EmotePositioningKeybind = 'L',
+
     -- Crouching
     CrouchEnabled = true,
     CrouchKeybindEnabled = true,

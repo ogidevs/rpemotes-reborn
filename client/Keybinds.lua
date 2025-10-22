@@ -47,7 +47,7 @@ if Config.Keybinding then
             EmoteCommandStart({ emote, 0 })
         end
     end, false)
-    RegisterKeyMapping(cmd, string.format('Brza Animacija %s', i), 'keyboard', Config.KeybindKeys[i])
+    RegisterKeyMapping(cmd, string.format('%s %s', Translate('fast_anim'), i), 'keyboard', Config.KeybindKeys[i])
     end
 
     function EmoteBindStart(source, args, raw)

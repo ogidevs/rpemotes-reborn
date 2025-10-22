@@ -206,7 +206,7 @@ RegisterCommand('emotepos', function()
     startPositioningMode(currentEmote)
 end, false)
 
-RegisterKeyMapping('emotepos', 'Podesi poziciju animacije', 'keyboard', 'l')
+RegisterKeyMapping('emotepos', Translate('emote_positioning_command'), 'keyboard', Config.EmotePositioningKeybind)
 
 CreateThread(function()
     while true do
