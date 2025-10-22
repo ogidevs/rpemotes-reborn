@@ -1,0 +1,49 @@
+{
+  "sidebar": {
+    "title": "NewEra Animations",
+    "welcomeMessages": [
+      "Welcome!",
+      "Ready to express yourself?",
+      "Let's find the perfect emote.",
+      "Right click an emote for more options."
+    ]
+  },
+  "categories": {
+    "All": "All",
+    "Favorites": "Favorites",
+    "Dances": "Dances",
+    "Props": "Props",
+    "Walks": "Walks",
+    "Expressions": "Expressions",
+    "Shared": "Shared Emotes"
+  },
+  "topbar": {
+    "searchPlaceholder": "Search in \"{{category}}\"...",
+    "searchPlaceholderCompact": "Search...",
+    "expandTooltip": "Expand View",
+    "compactTooltip": "Compact Mode",
+    "exitButton": "Exit [ESC]"
+  },
+  "emoteCard": {
+    "playTooltip": "Play Animation",
+    "positionTooltip": "Adjust Position",
+    "favoriteTooltip": "Add to Favorites"
+  },
+  "contextMenu": {
+    "header": "Options for '{{emoteLabel}}'",
+    "quickEmote": "Quick Emote {{slot}}",
+    "boundEmote": "/e {{emoteName}}",
+    "emptySlot": "Empty",
+    "bindActionTooltip": "Bind '{{emoteLabel}}'",
+    "replaceActionTooltip": "Replace '{{boundEmote}}' with '{{emoteLabel}}'",
+    "deleteActionTooltip": "Unbind '{{boundEmote}}' from this slot",
+    "footer": "Keybinds are set in FiveM Settings (Default NUMPAD 4-9)"
+  },
+  "gizmo": {
+    "title": "Position Adjustment",
+    "rotation": "Rot",
+    "cancelButton": "Cancel",
+    "saveButton": "Save",
+    "instructions": "Left-click and drag to move. Right-click and drag to control the camera."
+  }
+}

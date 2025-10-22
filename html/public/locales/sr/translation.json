@@ -1,0 +1,49 @@
+{
+  "sidebar": {
+    "title": "NewEra Animacije",
+    "welcomeMessages": [
+      "Dobrodošli!",
+      "Spremni da se izrazite?",
+      "Pronađimo savršenu animaciju.",
+      "Desni klik na animaciju za više opcija."
+    ]
+  },
+  "categories": {
+    "All": "Sve",
+    "Favorites": "Omiljene",
+    "Dances": "Plesovi",
+    "Props": "Rekviziti",
+    "Walks": "Stilovi Hoda",
+    "Expressions": "Izrazi Lica",
+    "Shared": "Deljene Animacije"
+  },
+  "topbar": {
+    "searchPlaceholder": "Pretraži u \"{{category}}\"...",
+    "searchPlaceholderCompact": "Pretraži...",
+    "expandTooltip": "Proširi prikaz",
+    "compactTooltip": "Kompaktni režim",
+    "exitButton": "Izađi [ESC]"
+  },
+  "emoteCard": {
+    "playTooltip": "Pokreni animaciju",
+    "positionTooltip": "Podesi poziciju",
+    "favoriteTooltip": "Dodaj u omiljene"
+  },
+  "contextMenu": {
+    "header": "Opcije za '{{emoteLabel}}'",
+    "quickEmote": "Brza Animacija {{slot}}",
+    "boundEmote": "/e {{emoteName}}",
+    "emptySlot": "Slobodno",
+    "bindActionTooltip": "Veži '{{emoteLabel}}'",
+    "replaceActionTooltip": "Zameni '{{boundEmote}}' sa '{{emoteLabel}}'",
+    "deleteActionTooltip": "Ukloni '{{boundEmote}}' sa ovog slota",
+    "footer": "Keybind se podešava u FiveM podešavanjima (Default NUMPAD 4-9)"
+  },
+  "gizmo": {
+    "title": "Podešavanje Pozicije",
+    "rotation": "Rot",
+    "cancelButton": "Poništi",
+    "saveButton": "Sačuvaj",
+    "instructions": "Levi klik i povuci za pomeranje. Desni klik i povuci za kontrolu kamere."
+  }
+}
